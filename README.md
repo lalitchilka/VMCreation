@@ -1,5 +1,8 @@
 # VMCreation
 This is for creating new VM's on virtual box using Vagrant.
+  VM Config:
+  1. Node1, Node2, Node3: RAM: 4GB
+  2. LB1, LB2: RAM: 512MB
 
 # Prerequisites
 1. Install Vagrant from below link.
